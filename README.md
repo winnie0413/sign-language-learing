@@ -112,9 +112,42 @@ Tutorials and notes for learning sign language (for personal use)
 - “你几岁啦？ 二十六。”
 - “你家有几口人？”
 - “五口，爸爸，妈妈，姐姐，哥哥，和我”
-  
+###### 注意：聋人朋友日常打手语时会省略信息，并且把形容词等放在句尾。
+
 ### 第三课：
-- 学习内容：
+- 学习内容：“欢迎你到我家来玩”、“请坐”、“请喝茶”
 ##### 主要词汇：
-##### 1.你：
+##### 1.欢迎：双手鼓掌+双手平伸从一侧移动到另外一侧
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/e56d0bb4-910f-4946-8c2b-e0565e5214f9" />
+
+##### 2.到：比一个“6”，小指在前向下顿一下
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/72578d8d-5971-47e7-b119-112b0dc3ddec" />
+
+##### 3.玩：比两个“6”，绕几下圈
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/392136d5-9a58-4d42-bd9b-40ae094ad2e8" />
+
+##### 4.请：
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/ab435712-2841-4a79-96dc-301c87c43ed8" />
+
+##### 5.坐：同“在”
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1947a4fd-0692-407f-922a-773c495b9e82" />
+
+##### 6.喝茶：
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/77e9fcb0-676d-48ee-8b50-0b72552192cf" />
+
+#### 本课练习任务（请熟练打出以下手语）：
+- “欢迎你到我家来玩”、“请坐”、“请喝茶”
+
+### 第四课：
+- 学习内容：“你们的房子真漂亮”、“谢谢”
+##### 主要词汇：
+##### 1.真：左手伸出食指，右手食指横伸，左手食指点一下右手食指
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/e4a077f4-b5cc-4efd-836d-67717783cce6" />
+
+##### 2.漂亮：一手食、中指指向双眼+一手大拇指伸出（乌鲁木齐前两个音节）
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/43f0b0ba-08d1-43a2-ad87-f6fcd743b184" />
+
+#### 本课练习任务（请熟练打出以下手语）：
+- “你们的房子真漂亮”、“谢谢”
+
 
